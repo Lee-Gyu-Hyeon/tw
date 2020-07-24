@@ -262,11 +262,6 @@ class ScoringViewController: UIViewController {
 
                     } else if self.score[0] == "0" {
                         print("채점이 완료되지 않았습니다.")
-                        
-                        }
-                        
-                        dialog.addAction(okaction)
-                        self.present(dialog, animated: true, completion: nil)*/
                     }
 //---------------------------------------------------------------------------------------------------------------------------------------
                 }
