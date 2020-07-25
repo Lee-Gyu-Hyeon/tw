@@ -245,9 +245,11 @@ class ScoringViewController: UIViewController {
                     print("-------------------------------------------------------------")
 //---------------------------------------------------------------------------------------------------------------------------------------
                     if self.score[0] == "S" {
+                        print("Your Score is S")
                         
                     } else if self.score[0] == "A" {
                         print("Your Score is A")
+                        
                     } else if self.score[0] == "B" {
                         print("Your Score is B")
                         
